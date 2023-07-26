@@ -1,2 +1,3 @@
-# transformers_from_Scratch
-This repository contains pytorch implementation of transformers. 
+# Transformers from scratch
+
+This repository contains pytorch implementation of transformers from scratch.
