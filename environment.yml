@@ -1,0 +1,8 @@
+name: transformers_env
+channels:
+  - defaults
+dependencies:
+  - python==3.11
+  - pip==22.3.1
+  - pip:
+      - -r requirements.txt
